@@ -2,6 +2,6 @@ public class Test{
 
 public static void main(String args[])
 {
-System.out.println("my first java program for jenkins");
+System.out.println("my first java program this new jenkins");
 }
 }
